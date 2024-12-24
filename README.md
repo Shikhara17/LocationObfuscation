@@ -19,6 +19,6 @@ To set up Location Obfuscation on your machine, follow these steps:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Shikhara17/LocationObfuscation.git
-   cd location-obfuscation
+   cd LocationObfuscation
 
 
